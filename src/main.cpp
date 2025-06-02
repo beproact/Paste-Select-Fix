@@ -2,7 +2,7 @@
 
 using namespace geode::prelude;
 
-//remember to remove MacOS
+
 #include <Geode/modify/EditorUI.hpp>
 class $modify(MyEditorUI, EditorUI) {
     void onDuplicate(CCObject* sender) {
