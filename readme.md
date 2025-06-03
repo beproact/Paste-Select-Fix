@@ -1,5 +1,5 @@
 # Paste Select Fix
-[Geode](https://geode-sdk.org/) mod that makes it so when you undo a paste/copy and paste the objects you had selected before the paste get reselected.
+[Geode](https://geode-sdk.org/) mod that makes it so when you undo a paste the objects you had selected before the paste get reselected.
 
 Look at [Geode Docs](https://docs.geode-sdk.org/) for how to build.
 
