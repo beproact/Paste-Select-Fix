@@ -1,5 +1,5 @@
 {
-	"geode": "4.4.0",
+	"geode": "4.5.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074"
@@ -9,5 +9,6 @@
 	"version": "v1.0.2",
 	"developer": "Proact",
 	"description": "Undoing a paste reselects what was selected",
-	"tags": ["bugfix","editor","offline"]
+	"tags": ["bugfix","editor","offline"],
+	"links": {"source": "https://github.com/beproact/Paste-Select-Fix"}
 }
