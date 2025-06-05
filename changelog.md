@@ -4,3 +4,5 @@ Made the mod.
 Added logo.
 # 1.0.2
 Changed the mods description.
+# 1.0.3
+Tiny changes to how the mod is configured
