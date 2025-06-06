@@ -8,7 +8,7 @@
 	},
 	"id": "proact.paste_select_fix",
 	"name": "Paste Select Fix",
-	"version": "v1.0.4",
+	"version": "v1.0.5",
 	"developer": "Proact",
 	"description": "Undoing a paste reselects what was selected",
 	"tags": ["bugfix","editor","offline"],

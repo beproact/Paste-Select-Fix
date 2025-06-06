@@ -1,3 +1,6 @@
+# 1.0.5
+Mac/IOS support.
+Thanks to [hiimjasmine00](https://github.com/hiimjasmine00) for help with this.
 # 1.0.4
 Updated my CLI from 3.5.0 to 3.7.0 to see if that fixes some issues.
 # 1.0.3
