@@ -1,3 +1,5 @@
+# 1.1.0
+2.2081 support
 # 1.0.5
 Mac/IOS support.
 Thanks to [hiimjasmine00](https://github.com/hiimjasmine00) for help with this.

@@ -15,5 +15,4 @@ class $modify(MyEditorUI, EditorUI) {
         }
         EditorUI::doPasteObjects(p0);
     }
-
 };
